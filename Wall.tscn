@@ -6,7 +6,7 @@
 extents = Vector2( 44.75, 29.75 )
 
 [sub_resource type="OccluderPolygon2D" id=2]
-polygon = PoolVector2Array( 51, 129, 51, 189, 141, 189, 140.94, 186.295, 141, 163, 141, 129 )
+polygon = PoolVector2Array( 51, 129, 51, 189, 141, 189, 141, 129 )
 
 [node name="Node2D" type="Node2D"]
 
